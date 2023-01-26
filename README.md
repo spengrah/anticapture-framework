@@ -1,5 +1,5 @@
 ## Anticapture Framework
-The Anticapture Framework defines and explores [[capture-resistant governance]] from first principles, building off of the concepts of [[networks]], [[agents]], [[resources]], and [[actions]].
+The [[Anticapture Framework]] defines and explores [[capture-resistant governance]] from first principles, building off of the concepts of [[networks]], [[agents]], [[resources]], and [[actions]].
 
 ### Principles
 The Anticapture Framework strives to be...
@@ -50,7 +50,7 @@ Please add known Github repos and forks to this list.
 
 | Repo Name (and link) | Github Account | 
 | -- | -- | 
-| [anticapture-framework](insert_url) | slgraham | 
+| [anticapture-framework](insert_url) | spengrah | 
 
 ## Published content
 The following is a list of known content relating to the Anticapture Framework. Please add any missing content to this table via a pull request (on Github) or by creating a patch (on Radicle).
